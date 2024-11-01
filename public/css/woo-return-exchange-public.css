@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .order-details-inner-section {
+	padding: 4px 5px;
+	display: block;
+}
+h2.top-notice {
+	font-size: 15px;
+	color: #00a32a;
+}
+table#orderTable a.button.primary {
+	font-size: .8em;
+	text-decoration: none!important;
+	text-transform: none;
+}
+/* .product-listing-container {
+	min-width: 1200px;
+} */
